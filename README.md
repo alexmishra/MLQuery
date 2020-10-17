@@ -19,39 +19,64 @@
 ### Accuracy score
 * **accuracy(y_pred, y_test) :** performs accuracy prediction and returns the accuracy score.
  ## Sample Input
-Enter location of the file: E:/ML PROJECTS/Arya's SInking titanic/SinkingTitanic/train.csv **Takes the file path**\n
+Enter location of the file: E:/ML PROJECTS/Arya's SInking titanic/SinkingTitanic/train.csv **Takes the file path**
+
 Enter the names of features : Pclass,Sex,Age **Takes the features for X**
+
 Enter the target between '' : Survived **Takes the column for y**
+
 How do u want to replace the null values for feature:  Age **Finds the column withe null value and ask if you want to perform mean, median or mode with missing data**
+
 1. with 0
+
 2.with mean
+
 3.with median
+
 4.with mode
+
 2 **chose option 2**
+
 Do you want to perform One Hot Encoding?[y/n] **option to perform One Hot Encoding**
 n
+
 Do you want to perform Label Encoding?[y/n] **Option to perform Label Encoding**
 n
+
 Do you want to perform Standardization ?[y/n]y **Option to perform Standardization**
+
 Do you want to perform Normalization ?[y/n]n **Option to perform Normalization**
+
 **option to choose from regression or classification**
+
 Enter 1. for Regression: 
+
 Enter 2. for Classification: 
+
 2
+
 Enter the value for K7
           Logistic Regression  K-nearest neighbours
+
 Accuracy              0.12037              0.015856
           Logistic Regression  K-nearest neighbours
+
 Accuracy             0.088649              0.109043
           Logistic Regression  K-nearest neighbours
+
 Accuracy             0.169979              0.265189
           Logistic Regression  K-nearest neighbours
+
 Accuracy             0.112783               0.22028
           Logistic Regression  K-nearest neighbours
+
 Accuracy             0.151037              0.029713
           Logistic Regression  K-nearest neighbours
+
 Accuracy             0.060074             -0.051049
           Logistic Regression  K-nearest neighbours
+
 Accuracy             0.060917              0.107806
           Logistic Regression  K-nearest neighbours
+
 Accuracy              0.03062              0.040513
