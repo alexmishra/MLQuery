@@ -88,3 +88,7 @@ Enter the value for K7
           Logistic Regression  K-nearest neighbours
 
     Accuracy              0.03062              0.040513
+
+
+
+# we can make a web version for this.
