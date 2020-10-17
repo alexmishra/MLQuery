@@ -59,32 +59,32 @@ Enter the value for K7
 
                 Logistic Regression  K-nearest neighbours
 
-Accuracy              0.12037              0.015856
+    Accuracy              0.12037              0.015856
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy             0.088649              0.109043
+    Accuracy             0.088649              0.109043
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy             0.169979              0.265189
+    Accuracy             0.169979              0.265189
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy             0.112783               0.22028
+    Accuracy             0.112783               0.22028
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy             0.151037              0.029713
+    Accuracy             0.151037              0.029713
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy             0.060074             -0.051049
+    Accuracy             0.060074             -0.051049
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy             0.060917              0.107806
+    Accuracy             0.060917              0.107806
           
           Logistic Regression  K-nearest neighbours
 
-Accuracy              0.03062              0.040513
+    Accuracy              0.03062              0.040513
