@@ -19,7 +19,7 @@
 ### Accuracy score
 * **accuracy(y_pred, y_test) :** performs accuracy prediction and returns the accuracy score.
  ## Sample Input
-Enter location of the file: E:/ML PROJECTS/Arya's SInking titanic/SinkingTitanic/train.csv **Takes the file path**
+Enter location of the file: E:/ML PROJECTS/Arya's SInking titanic/SinkingTitanic/train.csv **Takes the file path**\n
 Enter the names of features : Pclass,Sex,Age **Takes the features for X**
 Enter the target between '' : Survived **Takes the column for y**
 How do u want to replace the null values for feature:  Age **Finds the column withe null value and ask if you want to perform mean, median or mode with missing data**
